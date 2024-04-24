@@ -61,3 +61,15 @@ This section contains resources that might contain from beginner to advanced con
 
 ## Curated List
   - **[Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)** : curated list of resources related to embedded and low-level programming
+
+## Youtube Channels on Rust
+- [Jeremy Chone](https://youtube.com/@JeremyChone)
+- [Lets Get Rusty](https://youtube.com/@letsgetrusty)
+- [Jon Gjengset](https://youtube.com/@jonhoo)
+- [The Rusty Bits](https://youtube.com/@therustybits)
+- [Code to the Moon](https://youtube.com/@codetothemoon)
+- [Brooks Builds](https://youtube.com/@BrooksBuilds)
+- [No boilerplate](https://youtube.com/@NoBoilerplate)
+- [Logan smith](https://youtube.com/@_noisecode)
+- [Tim clicks](https://youtube.com/@timClicks)
+- [Francesco Ciulla](https://youtube.com/@francescociulla)
