@@ -18,18 +18,23 @@ a curated collection of materials designed to assist learners at various stages 
 ### Videos
   - **[Let's Get Rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)** : Video series that go through the Rust lang book chapter by chapter
   - **[Idiomatic Rust in Simple Steps (IRISS)](https://www.youtube.com/playlist?list=PLW2L8KbM0O7aRi_Bt4YE1JuW9EdMs0ztR)** : Step-by-step guide to learning Rust no programming knowledge required
+  - **[Learn Rust Programming - Complete Course 🦀 ](https://www.youtube.com/watch?v=BpPEoZW5IiY)** - By FreeCodeCamp
+  - **[Rust Crash Course Tutorial](https://www.youtube.com/playlist?list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs)** : This playlist is designed to guide you from the very basics of Rust to its most advanced features.
 
 <br>
 
 ## Level: Intermediate
 
-### Videos
+### Web Backend Development with Rust
+  - **[Rust Axum Full Course](https://www.youtube.com/watch?v=XZtlD_m59sM)** : Full Course for Axum: An Awesome Web Framework for Rust. Not too low-level, not too high-level, well-componentized, complete, and with great ergonomics.
+
+### Other Project based tutorials
   - **[Solving distributed systems challenges in Rust](https://www.youtube.com/watch?v=gboGyccRVXI&t=1038s)** : In this stream we work through the fly.io distributed systems challenges (https://fly.io/dist-sys/) in Rust, and solve all the way up to challenge 3c.
-  - **[Decrusted Series by Jon Gjengset](https://www.youtube.com/playlist?list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z)**
-
-### Blog Posts
-
+  - 
   - **[Learning to Fly series](https://pwy.io/posts/learning-to-fly-update-2024/)** : A beginner-friendly Rust tutorial combining evolution, neural network and genetic algorithm
+
+### Rust in Depth
+  - **[Decrusted Series by Jon Gjengset](https://www.youtube.com/playlist?list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z)**
 
 <br>
 
