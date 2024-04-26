@@ -2,7 +2,7 @@
 
 a curated collection of materials designed to assist learners at various stages of their journey with the Rust.
 
-## Level: Beginner
+## 👶 Level: Beginner
 
 ### Free Books
   - **[The Rust Programming Language](https://doc.rust-lang.org/book/)** : Start your Rust journey with the book.
@@ -23,9 +23,9 @@ a curated collection of materials designed to assist learners at various stages 
 
 <br>
 
-## Level: Intermediate
+## 🥷 Level: Intermediate
 
-### Web Backend Development with Rust
+### 🌐 Web Backend Development with Rust
   - **[Rust Axum Full Course](https://www.youtube.com/watch?v=XZtlD_m59sM)** : Full Course for Axum: An Awesome Web Framework for Rust. Not too low-level, not too high-level, well-componentized, complete, and with great ergonomics.
 
 ### Other Project based tutorials
@@ -38,7 +38,7 @@ a curated collection of materials designed to assist learners at various stages 
 
 <br>
 
-## Level: Advanced
+## 🧙‍♂️ Level: Advanced
 
 ### Free Books
 
