@@ -27,6 +27,7 @@ a curated collection of materials designed to assist learners at various stages 
 
 ### 🌐 Web Backend Development with Rust
   - **[Rust Axum Full Course](https://www.youtube.com/watch?v=XZtlD_m59sM)** : Full Course for Axum: An Awesome Web Framework for Rust. Not too low-level, not too high-level, well-componentized, complete, and with great ergonomics.
+  - **[Build A Full Stack Chatbot in Rust (feat. Leptos & Rustformers)](https://youtu.be/vAjle3c9Xqc?si=uN1sM48VDOtBglNQ)** : A walkthrough of building a ChatGPT clone using Rust on the frontend and the backend. Quick introduction to the Leptos framework, Rustformers/llm, and open source language models.
 
 ### Other Project based tutorials
   - **[Solving distributed systems challenges in Rust](https://www.youtube.com/watch?v=gboGyccRVXI&t=1038s)** : In this stream we work through the fly.io distributed systems challenges (https://fly.io/dist-sys/) in Rust, and solve all the way up to challenge 3c.
@@ -45,10 +46,11 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Rust Atomics and Locks](https://marabos.nl/atomics/foreword.html)** : Provides an excellent overview of low-level concurrency
   - **[Writing an OS in Rust](https://os.phil-opp.com/)** : Blog series creates a small operating system in the Rust 
 
-### Blog Posts
+### Tutorials
 
   - **[Linux Kernel Rust Development Environment](https://tomcat0x42.me/linux/rust/2023/04/01/linux-kernel-rust-dev-environment.html)**
   - **[Linux Kernel Rust Modules](https://tomcat0x42.me/linux/rust/2023/04/07/linux-kernel-rust-modules.html)** 
+  - **[Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)** 
 
 
 <br>
