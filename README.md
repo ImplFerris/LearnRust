@@ -33,6 +33,9 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Solving distributed systems challenges in Rust](https://www.youtube.com/watch?v=gboGyccRVXI&t=1038s)** : In this stream we work through the fly.io distributed systems challenges (https://fly.io/dist-sys/) in Rust, and solve all the way up to challenge 3c.
   - 
   - **[Learning to Fly series](https://pwy.io/posts/learning-to-fly-update-2024/)** : A beginner-friendly Rust tutorial combining evolution, neural network and genetic algorithm
+    
+  - **[impl Rust playlist](https://www.youtube.com/playlist?list=PLqbS7AVVErFhAhQ5s9SWcvxHh4GwsIk_d)** : Different project based tutorials by Jon Gjengset including creating Git from scratch in Rust, BitTorrent client in Rust, Wordle solver in Rust
+
 
 ### Rust in Depth
   - **[Decrusted Series by Jon Gjengset](https://www.youtube.com/playlist?list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z)**
