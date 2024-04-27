@@ -54,7 +54,7 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Linux Kernel Rust Development Environment](https://tomcat0x42.me/linux/rust/2023/04/01/linux-kernel-rust-dev-environment.html)**
   - **[Linux Kernel Rust Modules](https://tomcat0x42.me/linux/rust/2023/04/07/linux-kernel-rust-modules.html)** 
   - **[Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)** 
-
+  - **[Implementing TCP in Rust (part 1)](https://www.youtube.com/watch?v=bzja9fQWzdA)**
 
 <br>
 
