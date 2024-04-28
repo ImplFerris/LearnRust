@@ -86,5 +86,7 @@ This section contains resources that might contain from beginner to advanced con
 - [Brooks Builds](https://youtube.com/@BrooksBuilds)
 - [No boilerplate](https://youtube.com/@NoBoilerplate)
 - [Logan smith](https://youtube.com/@_noisecode)
+- [Chris biscardi](https://www.youtube.com/@chrisbiscardi)
 - [Tim clicks](https://youtube.com/@timClicks)
+- [Dario](https://www.youtube.com/@dario.lencina)
 - [Francesco Ciulla](https://youtube.com/@francescociulla)
