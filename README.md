@@ -75,7 +75,7 @@ This section contains resources that might contain from beginner to advanced con
 
 ## Rust Language Cheat Sheet
 
-  - **[Rust Language Cheat Sheet](https://cheats.rs/)**
+  - **[Rust Language Cheat Sheet](https://cheats.rs/)**: A single-page Rust resource for people who like high information density
 
 ## Youtube Channels on Rust
 - [Jeremy Chone](https://youtube.com/@JeremyChone)
