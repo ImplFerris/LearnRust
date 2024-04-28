@@ -73,6 +73,10 @@ This section contains resources that might contain from beginner to advanced con
 ## Curated List
   - **[Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)** : curated list of resources related to embedded and low-level programming
 
+## Rust Language Cheat Sheet
+
+  - **[Rust Language Cheat Sheet](https://cheats.rs/)**
+
 ## Youtube Channels on Rust
 - [Jeremy Chone](https://youtube.com/@JeremyChone)
 - [Lets Get Rusty](https://youtube.com/@letsgetrusty)
