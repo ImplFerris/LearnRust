@@ -13,6 +13,7 @@ a curated collection of materials designed to assist learners at various stages 
 
 ### Exercises
   - **[Rustlings](https://github.com/rust-lang/rustlings)** : Small exercises to get you used to reading and writing Rust code!
+  - **[[100 Exercises to Learn Rust]](https://github.com/mainmatter/100-exercises-to-learn-rust): A self-paced course to learn Rust, one exercise at a time.
   - **[5 Rust Project Ideas For Absolutely Beginner Devs](https://eleftheriabatsou.hashnode.dev/5-rust-project-ideas-for-absolutely-beginners-devs)** : 5 simple yet practical projects that will help you later in bigger projects
     
 ### Videos
