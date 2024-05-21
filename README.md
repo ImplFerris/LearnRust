@@ -92,4 +92,5 @@ This section contains resources that might contain from beginner to advanced con
 - [Chris biscardi](https://www.youtube.com/@chrisbiscardi)
 - [Tim clicks](https://youtube.com/@timClicks)
 - [Dario](https://www.youtube.com/@dario.lencina)
+- [sphaerophoria](https://www.youtube.com/@sphaerophoria)
 - [Francesco Ciulla](https://youtube.com/@francescociulla)
