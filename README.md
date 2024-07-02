@@ -32,11 +32,15 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Rust Axum Full Course](https://www.youtube.com/watch?v=XZtlD_m59sM)** : Full Course for Axum: An Awesome Web Framework for Rust. Not too low-level, not too high-level, well-componentized, complete, and with great ergonomics.
   - **[Build A Full Stack Chatbot in Rust (feat. Leptos & Rustformers)](https://youtu.be/vAjle3c9Xqc?si=uN1sM48VDOtBglNQ)** : A walkthrough of building a ChatGPT clone using Rust on the frontend and the backend. Quick introduction to the Leptos framework, Rustformers/llm, and open source language models.
 
+### Other Resources
+  - [**Introduction to "Safe and Secure Coding in Rust: A Comparative Analysis of Rust and C/C++"](https://luk6xff.github.io/other/safe_secure_rust_book/#introduction-to-safe-and-secure-coding-in-rust-a-comparative-analysis-of-rust-and-cc)
+
 ### Other Project based tutorials
   - **[Solving distributed systems challenges in Rust](https://www.youtube.com/watch?v=gboGyccRVXI&t=1038s)** : In this stream we work through the fly.io distributed systems challenges (https://fly.io/dist-sys/) in Rust, and solve all the way up to challenge 3c.
   - **[Learning to Fly series](https://pwy.io/posts/learning-to-fly-update-2024/)** : A beginner-friendly Rust tutorial combining evolution, neural network and genetic algorithm
     
   - **[impl Rust playlist](https://www.youtube.com/playlist?list=PLqbS7AVVErFhAhQ5s9SWcvxHh4GwsIk_d)** : Different project based tutorials by Jon Gjengset including creating Git from scratch in Rust, BitTorrent client in Rust, Wordle solver in Rust
+
 
 
 ### Rust in Depth
