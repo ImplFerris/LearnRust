@@ -38,6 +38,7 @@ a curated collection of materials designed to assist learners at various stages 
 ### Other Project based tutorials
   - **[Solving distributed systems challenges in Rust](https://www.youtube.com/watch?v=gboGyccRVXI&t=1038s)** : In this stream we work through the fly.io distributed systems challenges (https://fly.io/dist-sys/) in Rust, and solve all the way up to challenge 3c.
   - **[Learning to Fly series](https://pwy.io/posts/learning-to-fly-update-2024/)** : A beginner-friendly Rust tutorial combining evolution, neural network and genetic algorithm
+  - [**Create Vim like Editor in Rust**](https://www.youtube.com/playlist?list=PL9KpW-9Hl_het1V3_dLhG_0K99a9043ac): Create a TUI application using crossterm
     
   - **[impl Rust playlist](https://www.youtube.com/playlist?list=PLqbS7AVVErFhAhQ5s9SWcvxHh4GwsIk_d)** : Different project based tutorials by Jon Gjengset including creating Git from scratch in Rust, BitTorrent client in Rust, Wordle solver in Rust
 
