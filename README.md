@@ -21,6 +21,7 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Learn Rust Programming - Complete Course 🦀 ](https://www.youtube.com/watch?v=BpPEoZW5IiY)** - By FreeCodeCamp
   - **[Rust Crash Course Tutorial](https://www.youtube.com/playlist?list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs)** : This playlist is designed to guide you from the very basics of Rust to its most advanced features.
   -  **[Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises](https://www.youtube.com/watch?v=lzKeecy4OmQ)** : You'll learn Rust from scratch and get to practice your new Rust programming skills with 19 practice exercises!
+   -  **[Introduction to the series | Rust for Beginners](https://www.youtube.com/watch?v=PpWR6zungUk&list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)** : You'll learn Rust from scratch by the team from Microsoft Developer!
 
 <br>
 
@@ -64,6 +65,9 @@ This section contains resources that might contain from beginner to advanced con
 ## Blog Posts
   - **[Shuttle Blog Posts](https://www.shuttle.rs/blog/tags/all)**: Teaches different topics (might contain from beginner to advanced level concepts)
   - **[Log Rocket Posts](https://blog.logrocket.com/tag/rust/)**
+  - **[Rust - Implementing SHA-1](https://www.thespatula.io/rust/rust_sha1/)**
+  - **[Rust - Base64 encoding and decoding](https://www.thespatula.io/rust/rust_base64/)**
+  - **[Rust - Implementing WebSockets](https://www.thespatula.io/rust/rust_websocket/)**
 
 ## Reverse Engineering
   - **[Rust Binary analysis, Feature By Feature](https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/)**
