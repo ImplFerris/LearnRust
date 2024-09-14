@@ -49,6 +49,7 @@ a curated collection of materials designed to assist learners at various stages 
 
 ### Rust in Depth
   - **[Decrusted Series by Jon Gjengset](https://www.youtube.com/playlist?list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z)**
+  - **[Crust of Rust Series by Jon Gjengset](https://www.youtube.com/playlist?app=desktop&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)**
 
 <br>
 
