@@ -111,3 +111,4 @@ This section contains resources that might contain from beginner to advanced con
 - [Dario](https://www.youtube.com/@dario.lencina)
 - [sphaerophoria](https://www.youtube.com/@sphaerophoria)
 - [Francesco Ciulla](https://youtube.com/@francescociulla)
+- [Semicolon](https://www.youtube.com/@Semicolon10)
