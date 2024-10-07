@@ -110,6 +110,7 @@ This section contains resources that might contain from beginner to advanced con
 - [Jon Gjengset](https://youtube.com/@jonhoo)
 - [The Rusty Bits](https://youtube.com/@therustybits)
 - [Code to the Moon](https://youtube.com/@codetothemoon)
+- [CoderSauce](https://www.youtube.com/@CoderSauce)
 - [Brooks Builds](https://youtube.com/@BrooksBuilds)
 - [No boilerplate](https://youtube.com/@NoBoilerplate)
 - [Logan smith](https://youtube.com/@_noisecode)
