@@ -99,6 +99,11 @@ This section contains resources that might contain from beginner to advanced con
 
   - **[Rust Language Cheat Sheet](https://cheats.rs/)**: A single-page Rust resource for people who like high information density
 
+<br>
+
+## ☠️ Dark Arts of Rust 
+  - **[The Rustonomicon](https://doc.rust-lang.org/nomicon/)**: The book digs into all the awful details that you need to understand when writing Unsafe Rust programs.
+
 ## Youtube Channels on Rust
 - [Jeremy Chone](https://youtube.com/@JeremyChone)
 - [Lets Get Rusty](https://youtube.com/@letsgetrusty)
