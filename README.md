@@ -2,7 +2,7 @@
 
 a curated collection of materials designed to assist learners at various stages of their journey with the Rust.
 
-## 👶 Level: Beginner
+## 👶Level: Beginner
 
 ### Free Books
   - **[The Rust Programming Language](https://doc.rust-lang.org/book/)** : Start your Rust journey with the book.
@@ -28,14 +28,14 @@ a curated collection of materials designed to assist learners at various stages 
 
 <br>
 
-## 🥷 Level: Intermediate
+## 🥷Level: Intermediate
 
 ### 🌐 Web Backend Development with Rust
   - **[Rust Axum Full Course](https://www.youtube.com/watch?v=XZtlD_m59sM)** : Full Course for Axum: An Awesome Web Framework for Rust. Not too low-level, not too high-level, well-componentized, complete, and with great ergonomics.
   - **[Build A Full Stack Chatbot in Rust (feat. Leptos & Rustformers)](https://youtu.be/vAjle3c9Xqc?si=uN1sM48VDOtBglNQ)** : A walkthrough of building a ChatGPT clone using Rust on the frontend and the backend. Quick introduction to the Leptos framework, Rustformers/llm, and open source language models.
 
 ### Other Resources
-  - [**Introduction to "Safe and Secure Coding in Rust: A Comparative Analysis of Rust and C/C++"](https://luk6xff.github.io/other/safe_secure_rust_book/#introduction-to-safe-and-secure-coding-in-rust-a-comparative-analysis-of-rust-and-cc)
+  - **[Introduction to "Safe and Secure Coding in Rust: A Comparative Analysis of Rust and C/C++"](https://luk6xff.github.io/other/safe_secure_rust_book/#introduction-to-safe-and-secure-coding-in-rust-a-comparative-analysis-of-rust-and-cc)**
 
 ### Other Project based tutorials
   - **[Solving distributed systems challenges in Rust](https://www.youtube.com/watch?v=gboGyccRVXI&t=1038s)** : In this stream we work through the fly.io distributed systems challenges (https://fly.io/dist-sys/) in Rust, and solve all the way up to challenge 3c.
@@ -43,6 +43,9 @@ a curated collection of materials designed to assist learners at various stages 
   - [**Create Vim like Editor in Rust**](https://www.youtube.com/playlist?list=PL9KpW-9Hl_het1V3_dLhG_0K99a9043ac): Create a TUI application using crossterm
     
   - **[impl Rust playlist](https://www.youtube.com/playlist?list=PLqbS7AVVErFhAhQ5s9SWcvxHh4GwsIk_d)** : Different project based tutorials by Jon Gjengset including creating Git from scratch in Rust, BitTorrent client in Rust, Wordle solver in Rust
+
+- **[hecto: Build Your Own Text Editor in Rust](https://flenker.blog/hecto/)** : This is a series of blog posts that shows you how to build a text editor in Rust.
+
 
 ### Free Books
   - **[The Little Book of Rust Macros](https://veykril.github.io/tlborm)** : This book is an attempt to distill the Rust community's collective knowledge of Rust macros, the Macros by Example ones as well as procedural macros(WIP).
@@ -53,7 +56,7 @@ a curated collection of materials designed to assist learners at various stages 
 
 <br>
 
-## 🧙‍♂️ Level: Advanced
+## 🧙Level: Advanced
 
 ### Free Books
 
@@ -98,10 +101,11 @@ This section contains resources that might contain from beginner to advanced con
 ## Rust Language Cheat Sheet
 
   - **[Rust Language Cheat Sheet](https://cheats.rs/)**: A single-page Rust resource for people who like high information density
+  - **[SpeedSheet for Rust](https://speedsheet.io/s/rust)**: This is an interactive Rust cheat sheet. Covers the core Rust programming language. Use the search to get instant answers.
 
 <br>
 
-## ☠️ Dark Arts of Rust 
+## Dark Arts of Rust 
   - **[The Rustonomicon](https://doc.rust-lang.org/nomicon/)**: The book digs into all the awful details that you need to understand when writing Unsafe Rust programs.
 
 ## Youtube Channels on Rust
