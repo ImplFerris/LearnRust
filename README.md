@@ -123,6 +123,7 @@ This section contains resources that might contain from beginner to advanced con
 - [No boilerplate](https://youtube.com/@NoBoilerplate)
 - [Logan smith](https://youtube.com/@_noisecode)
 - [Chris biscardi](https://www.youtube.com/@chrisbiscardi)
+- [regionaltantrums](https://www.youtube.com/@regionaltantrums)
 - [Tim clicks](https://youtube.com/@timClicks)
 - [Dario](https://www.youtube.com/@dario.lencina)
 - [sphaerophoria](https://www.youtube.com/@sphaerophoria)
