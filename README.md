@@ -12,6 +12,7 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Free Rust course developed by the Android team at Google](https://google.github.io/comprehensive-rust/)**: The course is used internally at Google when teaching Rust to experienced software engineers. They typically have a background in C++ or Java. The course covers all aspects of Rust, from basic syntax to generics and error handling. It also includes deep dives on Android, Chromium, bare-metal, and concurrency.
   - **[Yet Another Rust Resource (YARR!)](https://yet-another-rust-resource.pages.dev/introduction)** : Software engineers who know how to program in a high-level language but aren't familiar with lower-level programming and want to learn to write Rust quickly
   - **[The Rust Book (Abridged)](https://jasonwalton.ca/rust-book-abridged/)** : condensed version of "The Rust Programming Language". If you're already familiar with one or more other programming languages, then you are likely already familiar with a lot of the concepts the book covers, and you might benefit from this shorter version.
+  - **[Rust - A Language You'll Love](https://cratecode.com/lesson/rust-a-language-youll-love/75m1jc9k0p/xa3l5ahj5w) : A series of interactive lessons introducing Rust to those new to the language, including real-world projects and a live code editor.
 
 
 ### Exercises
