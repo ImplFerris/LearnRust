@@ -47,7 +47,9 @@ a curated collection of materials designed to assist learners at various stages 
     
   - **[impl Rust playlist](https://www.youtube.com/playlist?list=PLqbS7AVVErFhAhQ5s9SWcvxHh4GwsIk_d)** : Different project based tutorials by Jon Gjengset including creating Git from scratch in Rust, BitTorrent client in Rust, Wordle solver in Rust
 
-- **[hecto: Build Your Own Text Editor in Rust](https://flenker.blog/hecto/)** : This is a series of blog posts that shows you how to build a text editor in Rust.
+  - **[hecto: Build Your Own Text Editor in Rust](https://flenker.blog/hecto/)** : This is a series of blog posts that shows you how to build a text editor in Rust.
+
+  - **[Game development with Macroquad](https://mq.agical.se/)**: A game development guide on how to build a shoot'em up game in Rust with Macroquad.
 
 
 ### Free Books
