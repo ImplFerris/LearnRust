@@ -76,6 +76,7 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Writing A Wasm Runtime In Rust](https://skanehira.github.io/writing-a-wasm-runtime-in-rust/01_intro.html)**
   - **[Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)**: A guide to writing a DNS Server from scratch in Rust
   - **[Build your own SQLite](https://blog.sylver.dev/series/build-your-sqlite)**:  Building SQLite-compatible database from scratch
+  - **[Building a search engine from scratch, in Rust](https://jdrouet.github.io/tags/search-engine/)**:  creating a client-side search engine that works seamlessly across platforms
 
 
 ### Linux Development
