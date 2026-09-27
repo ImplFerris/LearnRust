@@ -13,6 +13,7 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Yet Another Rust Resource (YARR!)](https://yet-another-rust-resource.pages.dev/introduction)** : Software engineers who know how to program in a high-level language but aren't familiar with lower-level programming and want to learn to write Rust quickly
   - **[The Rust Book (Abridged)](https://jasonwalton.ca/rust-book-abridged/)** : condensed version of "The Rust Programming Language". If you're already familiar with one or more other programming languages, then you are likely already familiar with a lot of the concepts the book covers, and you might benefit from this shorter version.
   - **[Idiomatic Rust Snippets](https://idiomatic-rust-snippets.org/)** : Simplified Rust code samples on language fundemantals, design patterns and algorithms.
+  - [Rust Training Books](https://microsoft.github.io/RustTraining/): Multiple books by Microsoft, including "Rust for C/C++ Programmers", "Rust for C# Programmers", "Rust for Python Programmers", and more.
 
 ### Exercises
   - **[Rustlings](https://github.com/rust-lang/rustlings)** : Small exercises to get you used to reading and writing Rust code!
